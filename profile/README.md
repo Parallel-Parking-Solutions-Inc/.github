@@ -51,7 +51,7 @@ We aim to make every second spent in a parking lot smarter, safer, and more prod
 
 - 📧 info@parkwithparallel.com  
 - 🌐 [ParkWithParallel.com](https://parkwithparallel.com) *(coming soon)*  
-- 📍 Ottawa, Canada; Bengaluru, India.
+- 📍 Ottawa, Canada; Florida, United States; Bengaluru, India.
 
 ---
 
